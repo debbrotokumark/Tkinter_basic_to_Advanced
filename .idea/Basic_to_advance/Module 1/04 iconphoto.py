@@ -26,7 +26,7 @@ y = (screen_height - window_height) // 2
 root.resizable(False, False)  # Disables window resizing
 
 #root.iconbitmap('')
-root.iconphoto(False,PhotoImage(file="images\\icone.png"))
+root.iconphoto(False, PhotoImage(file="images/icone.png"))
 
 # Run the application
 root.mainloop()
