@@ -16,5 +16,5 @@ entry.pack(pady=10)
 
 tk.Button(root, text="Copy", command=copy_text).pack()
 tk.Button(root, text="Paste", command=paste_text).pack()
-#gyufyukfukfu
+
 root.mainloop()
