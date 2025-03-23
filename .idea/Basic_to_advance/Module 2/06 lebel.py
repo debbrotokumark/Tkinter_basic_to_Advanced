@@ -44,7 +44,7 @@ label = tk.Label(root, text="Aligned Text Example", anchor="nw")
 label.pack(fill=tk.BOTH, expand=True)
 
 
-image = tk.PhotoImage(file="C:\\Users\\debkk\\PycharmProjects\\PyTkinter\\.venv\\Lib\\site-packages\\Module 1\\images\\icone.png")
+image = tk.PhotoImage(file="C:\\Users\\debkk\\PycharmProjects\\PyTkinter\\.idea\\Basic_to_advance\\Module 1\\images\\icone.png")
 
 # Create a label with the image
 label = tk.Label(root, image=image)
